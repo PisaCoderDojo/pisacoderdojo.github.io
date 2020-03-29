@@ -22,9 +22,11 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
-    - name: Trusted Hugo
-      uses: chris-short/github-action-hugo@v0.1.2
-    
-    # Runs a single command using the runners shell
+    - name: Hugo setup
+      uses: peaceiris/actions-hugo@v2.4.8
+
     - name: Run a one-line script
       run: hugo --version
+    
+    - name: compile with hugo
+      run: cd __src__ && hugo
