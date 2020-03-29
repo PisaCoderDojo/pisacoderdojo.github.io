@@ -3,7 +3,6 @@ baseURL = "https://pisacoderdojo.github.io/"
 languageCode = "it-IT"
 title = "Sito ufficiale del Pisa Coderdojo"
 theme = "business-frontpage"
-publishDir = ".."
 # googleAnalytics = "UA-XXXXXXX-Y"
 
 
