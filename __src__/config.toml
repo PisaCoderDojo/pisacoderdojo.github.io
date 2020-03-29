@@ -1,5 +1,5 @@
 # Page settings
-baseURL = "http://pisa.coderdojo.it/"
+baseURL = "https://pisacoderdojo.github.io/"
 languageCode = "it-IT"
 title = "Sito ufficiale del Pisa Coderdojo"
 theme = "business-frontpage"

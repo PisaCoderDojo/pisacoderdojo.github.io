@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://pisa.coderdojo.it/categories/</loc>
+    <loc>https://pisacoderdojo.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://pisa.coderdojo.it/</loc>
+    <loc>https://pisacoderdojo.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://pisa.coderdojo.it/tags/</loc>
+    <loc>https://pisacoderdojo.github.io/tags/</loc>
   </url>
   
 </urlset>
