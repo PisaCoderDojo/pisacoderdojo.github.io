@@ -21,7 +21,7 @@ publishDir = ".."
 
 
     [params.navbar]
-        name = "Start Bootstrap"
+        name = "Pisa CoderDojo"
         url = "#"
 
         [[params.navbar.nav]]
