@@ -15,8 +15,9 @@ Coder significa Programmatore e Dojo significa Tempio dell'Apprendimento.
 
 **se vuoi imparare a programmare vai in un CoderDojo e porta i tuoi genitori.**
 
-C'è una sola regola: **Sempre in Gamba! Be Cool!**
+C'è una sola regola: Sempre in Gamba! Be Cool!
 
+</br>
 
 ### Perchè?
 

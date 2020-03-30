@@ -11,7 +11,7 @@ content = "ciao"
 ###
 [params]
     author = "Pisa CoderDojo"
-    description = "Sempre in gamba!"
+    description = "Sempre in Gamba! Be Cool!"
     githubUsername = "#"
     accent = "red"
     showBorder = true

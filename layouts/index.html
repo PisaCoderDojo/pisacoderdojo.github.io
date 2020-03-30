@@ -5,12 +5,14 @@
         {{ with .Site.Params.profilePic }} <img class="logo" src="{{ . }}"> {{ end }}
         <!-- <h1>{{ .Site.Title }}</h1> -->
         <h2>{{ markdownify .Site.Params.Description }}</h2>
-        <div class="homepage-content text-justify">
+        <div class="homepage-content text-center">
             <p>
                 Pisa CoderDojo si riunisce una volta al mese controlla il nostro calendario e acquista il biglietto
                 gratuito su Coderdojo Zen.
-                <button>Prossimo evento!</button>
             </p>
+            <a href="https://zen.coderdojo.com/dojos/it/toscana/pisa-province-of-pisa/pisa" target="_blank">
+                <button type="button" role="button">Partecipa!</button>
+            </a>
         </div>
     </div>
 </main>

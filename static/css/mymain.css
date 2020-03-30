@@ -1,3 +1,31 @@
+/**
+* General
+**/
+.content{
+    text-align: justify;
+}
+.copyright {
+    font-size: 12px;
+}
+.copyright a{
+    color: #777;
+}
+.copyright a:hover {
+    color: #777;
+}
+
+/**
+* Home
+**/
+.homepage-content p {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.homepage-content button {
+    color: red;
+    font-weight: bold;
+    font-size: 16px;
+}
 .logo {
-    /* height: 1px; */
+    height: 100%;
 }
