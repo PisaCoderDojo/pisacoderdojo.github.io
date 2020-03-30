@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Stefano Forti",
+    "text": "Laureato in Informatica e Networking all'Università di Pisa e alla Scuola Superiore Sant'Anna, è attualmente dottorando presso il Dipartimento di Informatica dell'Università di Pisa. Nella vita, sogna di unire la sua passione per l'informatica a quella per le lettere e di occuparsi di ricerca, innovazione e divulgazione.",
+    "img": "stefano_forti.jpg"
+  },
+  {
+    "name": "Chiara Zamberti",
+    "text": "Laureanda della magistrale in Informatica Umanistica dell'Università di Pisa e laureata triennale nello stesso ambito. Sono originaria di Gaeta, ma vivo a Pisa dal 2012. Mi affascinano particolarmente il mondo della tecnologia in generale, l'interazione uomo-macchina, l'assistività e gli ambienti virtuali. Ho uno spirito tuttofare e sono convinta esista sempre una soluzione ad ogni problema, ma se ho dubbi rispondo \"42\".",
+    "img": "chiara_zamberti.jpg"
+  },
+  {
+    "name": "Salvatore Catroppa",
+    "text": "Studia Informatica all'Università di Pisa, ha le mani sempre in pasta e risolve i problemi di tutti. Calabrese di nascita, mai immemore delle sue origini, è ingenuamente appassionato di stampa 3D, teatro e comunicazione. Spera di riuscire un giorno nell'impresa di avvicinare chiunque incontri al mondo dell'informatica e della tecnologia.",
+    "img": "salvatore_catroppa.jpg"
+  },
+  {
+    "name": "Salvatore Ventrone",
+    "text": "Full-stack developer e Buccanneer-Scholar. Adora insegnare materie di programmazione ed ispirare i giovani ad imparare a programmare. I suoi interessi sono FLOSS, linguaggi di programmazione, tecnologia e privacy. Oltre alla programmazione, è un appassionato di videogiochi e giochi da tavolo.",
+    "img": "salvatore_ventrone.jpg"
+  },
+  {
+    "name": "Giuseppe Bisicchia",
+    "text": "Laureando in Informatica all'Università di Pisa. Durante le superiori ha partecipato a numerose competizioni di robotica e informatica. Ha la passione della divulgazione scientifica e cerca di diffondere, in ogni modo, l'amore per queste discipline. Inoltre lo affascinano le neuroscienze: il suo sogno sarebbe quello di studiare come fondere insieme questi suoi interessi.",
+    "img": "giuseppe_bisicchia.jpg"
+  },
+  {
+    "name": "Klevis Gasa",
+    "text": "Laureato in Ingegneria Aerospaziale all'Università di Pisa, è attualmente iscritto al Master of Science in Space Engineering presso lo stesso ateneo. Mosso da un'innata curiosità e amore per la conoscenza è appassionato  di scienza, nuove tecnologie e la loro la divulgazione. Sogna di prendere parte ad una missione per l'esplorazione spaziale, ma nel frattempo si tiene occupato con lego e videogiochi.",
+    "img": "klevis_gasa.jpg"
+  }
+]

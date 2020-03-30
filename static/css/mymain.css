@@ -22,10 +22,38 @@
     margin-bottom: 3rem;
 }
 .homepage-content button {
-    color: red;
+    color: var(--accent);
     font-weight: bold;
     font-size: 16px;
 }
 .logo {
     height: 100%;
+}
+
+
+.mentors-actual h4 {
+    font-weight: bold;
+    color: var(--accent);
+    margin-top: 0px;
+}
+.mentors-actual h3 {
+    text-align: right;
+}
+.mentors-actual .row {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.mentors-old h3 {
+    margin-top: 7rem;
+    margin-bottom: 3rem;
+}
+.mentors-old h5 {
+    font-weight: bold;
+    color: var(--accent);
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+.mentors-old img {
+    height: 100px;
 }

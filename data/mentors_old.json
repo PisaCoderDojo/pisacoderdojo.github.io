@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Vittorio Massaro",
+    "text": "Laureato in Informatica all'Università di Pisa, attualmente frequenta il corso magistrale di Informatica a Pisa. Grande appassionato di programmazione e matematica, è convinto che saper programmare sia utile non solo davanti ad un PC ma, e soprattutto, nella vita di tutti i giorni.",
+    "img": "vittorio.jpg"
+  },
+  {
+    "name": "Lapo Frati",
+    "text": "/*TODO: mandare la biografia a luca*/",
+    "img": "lapo.jpg"
+  },
+  {
+    "name": "Mario Viti",
+    "text": "Laureando in Informatica presso l'Università di Pisa, ha precedentemente conseguito il diploma in arti multimediali e grafica all'Accademia di Belle Arti di Carrara. Originario di Massa Carrara ha una passione sconfinata per musica, disegno, cartoni animati e videogiochi.",
+    "img": "mario.jpg"
+  },
+  {
+    "name": "Andrea Madotto",
+    "text": "Laureato in Informatica all'Università di Perugia, ha perfezionato i sui studi ad Hong Kong ottenendo un Master of Science in Sistemi di Informazione Avanzati. Attualmente studia la sua seconda laurea magistrale in Informatica all'Università di Pisa. Originario di Perugia ha un grande passione per l’algoritmica e l’intelligenza artificiale.",
+    "img": "andrea.jpg"
+  },
+  {
+    "name": "Francesco Feola",
+    "text": "Laureato magistrale in Lingua e Letteratura Italiana all’Università di Pisa, dottorando di ricerca in Studi Italianistici presso il medesimo ateneo, giornalista cartaceo e online, scrittore qualche volta, ha aderito a Pisa CoderDojo per la sua propensione all’insegnamento, e per la consapevolezza che nessun campo ormai può fare a meno dell’informatica, neppure quello umanistico.",
+    "img": "francesco.jpg"
+  },
+  {
+    "name": "Davide Balestri",
+    "text": "Laureando in Ingegneria Gestionale presso l'Università di Pisa. Appassionato fin da piccolo all'informatica e a tutto ciò che riguarda la multimedialità. Il suo desiderio é riuscire a far conoscere le potenzialità degli strumenti informatici che ci circondano in maniera semplice e alla portata di tutti.",
+    "img": "davide_b.jpg"
+  },
+  {
+    "name": "Giulio Auriemma",
+    "text": "Laureato in informatica alla Federico II di Napoli, di dov'è originario, e attualmente iscritto alla Laurea Magistrale in Informatica presso l'università di Pisa. Sostenitore dall'informatica responsabile e del processo di evoluzione tecnologica della quotidianità. Da bravo informatico ama i videogames e il rock'n'roll.",
+    "img": "giulio_auriemma.jpg"
+  },
+  {
+    "name": "Ludovica Pannitto",
+    "text": "Nata a Campobasso, approda a Pisa con una grande passione per la Matematica, e ne scopre un'altra per la Linguistica. Dopo essersi laureata alla triennale in Informatica Umanistica, sta proseguendo i suoi studi in Linguistica Computazionale. Fuori dalle aule universitarie, ama gli indovinelli, i giochi da tavolo, ma non le piace il gelato al cioccolato.",
+    "img": "ludovica_pannitto.jpg"
+  },
+  {
+    "name": "Davide Neri",
+    "text": "Laureato in Informatica all'Università di  Firenze, attualmente studia Informatica e Networking all'Università di Pisa e alla Scuola Superiore Sant'Anna. La sua scelta formativa è stata guidata dal fascino e dal ruolo fondamentale che la comunicazione ha sempre giocato nel passato, continua nel presente e sempre di più avrà nel futuro della storia.",
+    "img": "davide.jpg"
+  },
+  {
+    "name": "Luca Rinaldi",
+    "text": "Laureato in Informatica e Networking all'Università di Pisa e alla Scuola Superiore Sant'anna, attualmente svolge ricerca nel gruppo SOCC dell'Università di Pisa nell'ambito dei servizi software e del Cloud computing. Originario delle Marche ha da sempre avuto la passione per i computer e l'insegnamento.",
+    "img": "luca_rinaldi.jpg"
+  },
+  {
+    "name": "Valentina Fiorini",
+    "text": "Laureata in Informatica Umanistica presso l'Università di Pisa. Ha conseguito il diploma come perito informatico. Originaria di Arezzo, è una grande appassionata di grafica e di disegno.",
+    "img": "valentina_fiorini.jpg"
+  },
+  {
+    "name": "Lucio Messina",
+    "text": "Toscano di nascita, è iscritto alla Laurea Magistrale in Informatica. Suona la chitarra e il clarinetto, ama i giochi da tavolo e l'associazionismo. Nel tempo libero, studia anche un pochino. Dopo soli cinque minuti di conversazione ti farà un indovinello oppure cercherà di convincerti che l'informatica è una scienza. Ha una treccina ma non sogna di diventare Jedi.",
+    "img": "lucio_messina.jpg"
+  }
+]

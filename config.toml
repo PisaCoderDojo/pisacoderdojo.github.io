@@ -13,13 +13,13 @@ content = "ciao"
     author = "Pisa CoderDojo"
     description = "Sempre in Gamba! Be Cool!"
     githubUsername = "#"
-    accent = "red"
+    accent = "#ed2025"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightLanguages = ["javascript", "java", "python"]
     profilePic = "banner-medium.jpg"
     css = ["css/mymain.css"]
 
@@ -68,7 +68,7 @@ content = "ciao"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.youtube.com/channel/UC34kIrGHU8_HsTejTwlGv9w"
+    url = "https://www.youtube.com/channel/UCnqlpn8ckiVuYbczbQOtPAw"
     name = "youtube"
     weight = 4
 

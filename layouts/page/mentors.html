@@ -1,0 +1,46 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div>
+        <h2>{{ .Title }}</h2>
+        <h5>{{ .Description }}</h5>
+    </div>
+
+    <div align="start" class="content">
+        <p>
+            {{ .Content }}
+        </p>
+        </br>
+        <div class="mentors-actual">
+            {{ range $i, $el := $.Site.Data.mentors_actual }}
+            {{ if eq $i 0 }} <h3>Champion</h3> {{ end }}
+            {{ if eq $i 1 }} <h3>Mentori</h3> {{ end }}
+            <div class="row">
+                <div class="col-sm-3">
+                    <img src="{{ $el.img }}" class="img-circle img-responsive" />
+                </div>
+                <div class="col-sm-9">
+                    <h4>{{ $el.name }}</h4>
+                    <span class="text-justify">{{ $el.text }}</span>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+        
+        <div class="mentors-old">
+            <h3>Hanno collaborato con noi</h3>
+            <div class="row">
+                {{ range $i, $el := $.Site.Data.mentors_old }}
+                <div class="col-sm-3">
+                    <img src="{{ $el.img }}" class="img-circle" />
+                    <h5>{{ $el.name }}</h5>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+
+</main>
+
+{{ partial "footer" . }}
