@@ -22,6 +22,7 @@ content = "ciao"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     profilePic = "banner-medium.jpg"
     css = ["css/mymain.css"]
+    js = ["https://cdnjs.cloudflare.com/ajax/libs/ical.js/1.3.0/ical.min.js", "js/events.js"]
 
 [[menu.main]]
     url = "/"
