@@ -26,8 +26,8 @@ jobs:
     - name: Hugo setup
       uses: peaceiris/actions-hugo@v2.4.8
     
-    - name: Hugo build
-      run: hugo
+    - name: Build
+      run: hugo --minify
       
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
