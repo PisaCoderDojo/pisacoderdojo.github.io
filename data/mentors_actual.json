@@ -37,5 +37,11 @@
     "name": "Francesco Maringiò",
     "text": "Dopo una laurea triennale in Ingegneria Biomedica a Pisa, prosegue nel corso magistrale nello stesso ambito. Crede fermamente nel ruolo dell'educazione nell'ambito dell'informatica e delle nuove tecnologie, con un approccio orientato al divertimento istruttivo. Oltre all'ingegneria e all' informatica, è appassionato di musica, di storia, di sport e di videogiochi.",
     "img": "francesco_maringiò.jpg"
+  },
+  {
+    "name": "Daria Maggi",
+    "text": "Studentessa di AIDE all’Università di Pisa. È appassionata di scrittura e informatica e è sempre alla ricerca di nuovi modi per mettere insieme le due cose!",
+    "img": "daria_maggi.jpg",
+    "link": "https://github.com/dariamaggi"
   }
 ]
