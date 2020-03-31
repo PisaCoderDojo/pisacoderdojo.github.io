@@ -39,7 +39,7 @@ content = "ciao"
     weight = 3
 
 [[menu.main]]
-    url = "/resources/"
+    url = "/projects/"
     name = "Risorse"
     weight = 4
 
