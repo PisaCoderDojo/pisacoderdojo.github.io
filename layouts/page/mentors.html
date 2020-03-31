@@ -21,13 +21,19 @@
                     <img src="{{ $el.img }}" class="img-circle img-responsive" />
                 </div>
                 <div class="col-sm-9">
+                    {{ with $el.link }}
+                    <a href="{{ . }}" target="_blanck" rel="noopener noreferrer">
+                        <h4>{{ $el.name }}</h4>
+                    </a>
+                    {{ else }}
                     <h4>{{ $el.name }}</h4>
+                    {{ end }}
                     <span class="text-justify">{{ $el.text }}</span>
                 </div>
             </div>
             {{ end }}
         </div>
-        
+
         <div class="mentors-old">
             <h3>Hanno collaborato con noi</h3>
             <div class="row">
