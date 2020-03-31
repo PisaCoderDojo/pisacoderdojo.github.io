@@ -12,7 +12,7 @@
             {{ .Content }}
         </p>
         </br>
-        <div class="mentors-actual">
+        <div class="container-fluid mentors-actual">
             {{ range $i, $el := $.Site.Data.mentors_actual }}
             {{ if eq $i 0 }} <h3>Champion</h3> {{ end }}
             {{ if eq $i 1 }} <h3>Mentori</h3> {{ end }}
@@ -34,7 +34,7 @@
             {{ end }}
         </div>
 
-        <div class="mentors-old">
+        <div class="container-fluid mentors-old">
             <h3>Hanno collaborato con noi</h3>
             <div class="row">
                 {{ range $i, $el := $.Site.Data.mentors_old }}
