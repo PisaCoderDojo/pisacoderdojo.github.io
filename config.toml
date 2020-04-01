@@ -13,14 +13,14 @@ content = "ciao"
     author = "Pisa CoderDojo"
     description = "Sempre in Gamba! Be Cool!"
     githubUsername = "#"
-    accent = "#ed2025"
-    showBorder = true
+    accent = "#ed684a"
+    showBorder = false
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["javascript", "java", "python"]
-    profilePic = "banner-medium.jpg"
+    profilePic = "logo_white.png"
     css = ["https://fonts.googleapis.com/css?family=Lato&display=swap", "css/mymain.css"]
 
 [[menu.main]]

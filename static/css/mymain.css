@@ -1,13 +1,29 @@
+@font-face {
+    font-family: 'League Gothic';
+    src: /*url('.woff') format('woff'),*/
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('/font/league-gothic.regular.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+@font-face {
+    font-family: 'OCR-A';
+    src: /*url('.woff') format('woff'),*/
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('/font/ocraextended.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
 /**
 * General
 **/
 
-.bold {
-    font-weight: bold;
+body {
+    font-family: "Lato" !important;
 }
 
-.content {
-    text-align: justify;
+.bold {
+    font-weight: bold;
 }
 
 .copyright {
@@ -27,9 +43,46 @@
     height: 2rem
 }
 
+.page-title {
+    background-color: #642580;
+    /* background-image: linear-gradient(to bottom right, #41bac1, #642580) !important; */
+    color: white;
+    margin-top: 0px;
+    padding: 2rem;
+    margin-bottom: 3rem;
+}
+
+.page-title h2 {
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.page-title h5 {
+    font-size: 2rem;
+}
+
+main {
+    padding-top: 0px;
+}
+
+.content {
+    padding-top: 0px;
+    text-align: left;
+}
+
 /**
 * Home
 **/
+
+.colored-backgroud {
+    background-image: linear-gradient(to bottom right, #41bac1, #642580) !important;
+    /* background-color: #ed684a; */
+    color: white !important;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    max-width: none !important;
+}
 
 .homepage-content p {
     margin-top: 3rem;
@@ -43,39 +96,38 @@
 }
 
 .logo {
-    height: 100%;
+    width: 50%;
 }
 
 .intro {
     transform: translateY(0vh)!important;
+    margin: 0 auto;
     margin-top: 13vh;
-}
-
-.intro h3, .intro h4 {
-    color: #4d4d4d;
-}
-
-.intro .slogan {
-    font-size: 2.5rem;
-    font-family: "Lato";
-}
-
-.intro .lato-font {
-    font-family: "Lato";
-}
-
-.intro .small-font {
-    font-size: 2.5rem;
+    max-width: 850px;
 }
 
 .intro h3 {
-    font-size: 3rem;
+    font-size: 4rem;
     line-height: 4rem;
+    margin: 10rem;
 }
 
-.intro h4 {
+.intro p {
     font-size: 2rem;
     line-height: 3rem;
+}
+
+.intro .gothic-font {
+    font-family: "League Gothic";
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+.intro .ocr-font {
+    font-size: 2.5rem;
+    font-weight: normal;
+    font-family: "OCR-A";
+    letter-spacing: .1rem;
 }
 
 /**
