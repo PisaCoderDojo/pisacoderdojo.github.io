@@ -21,7 +21,7 @@ content = "ciao"
     highlightStyle = "default"
     highlightLanguages = ["javascript", "java", "python"]
     profilePic = "banner-medium.jpg"
-    css = ["css/mymain.css"]
+    css = ["https://fonts.googleapis.com/css?family=Lato&display=swap", "css/mymain.css"]
 
 [[menu.main]]
     url = "/"

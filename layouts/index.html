@@ -2,18 +2,23 @@
 
 <main>
     <div class="intro">
-        {{ with .Site.Params.profilePic }} <img class="logo" src="{{ . }}"> {{ end }}
-        <!-- <h1>{{ .Site.Title }}</h1> -->
-        <h2>{{ markdownify .Site.Params.Description }}</h2>
-        <div class="homepage-content text-center">
-            <p>
-                Pisa CoderDojo si riunisce una volta al mese controlla il nostro calendario e acquista il biglietto
-                gratuito su Coderdojo Zen.
-            </p>
-            <a href="https://zen.coderdojo.com/dojos/it/toscana/pisa-province-of-pisa/pisa" target="_blank">
-                <button type="button" role="button">Partecipa!</button>
-            </a>
-        </div>
+        <!-- <h3 class="slogan">{{/* markdownify .Site.Params.Description */}}</h2> -->
+            {{ with .Site.Params.profilePic }} <img class="logo" src="{{ . }}"> {{ end }}
+            <!-- <h1>{{ .Site.Title }}</h1> -->
+            <div class="homepage-content text-center">
+                <h3>
+                    <span class="lato-font">Coder</span> <span class="small-font">(programmazione)</span>
+                    <span class="lato-font">+ Dojo</span> <span class="small-font">(tempio)</span>
+                    <span class="lato-font">=</span>
+                    </br><span class="">Tempio della Programmazione</span>
+                </h3>
+                <p>
+                    <h4>Un nuovo evento gratuito ogni mese per bambini e ragazzi, verifica il nostro calendario su <a
+                            href="https://zen.coderdojo.com/dojos/it/toscana/pisa-province-of-pisa/pisa"
+                            target="_blank">Coderdojo Zen</a>.
+                    </h4>
+                </p>
+            </div>
     </div>
 </main>
 
