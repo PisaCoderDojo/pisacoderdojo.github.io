@@ -3,8 +3,7 @@ baseURL = "https://pisa.coderdojo.it/"
 languageCode = "it-IT"
 title = "Pisa Coderdojo"
 theme = "minimal"
-# googleAnalytics = "UA-XXXXXXX-Y"
-content = "ciao"
+googleAnalytics = "UA-7192458-7"
 
 ###
 # minimal
