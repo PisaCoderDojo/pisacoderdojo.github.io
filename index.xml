@@ -1,14 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sito ufficiale del Pisa Coderdojo</title>
-    <link>https://pisacoderdojo.github.io/</link>
-    <description>Recent content on Sito ufficiale del Pisa Coderdojo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>it-IT</language>
-    
-	<atom:link href="https://pisacoderdojo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pisa Coderdojo</title><link>https://pisa.coderdojo.it/</link><description>Recent content on Pisa Coderdojo</description><generator>Hugo -- gohugo.io</generator><language>it-IT</language><lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pisa.coderdojo.it/index.xml" rel="self" type="application/rss+xml"/><item><title>Il Pianoforte</title><link>https://pisa.coderdojo.it/projects/il-pianoforte/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pisa.coderdojo.it/projects/il-pianoforte/</guid><description/></item><item><title>Le rane di Fibonacci</title><link>https://pisa.coderdojo.it/projects/le-rane-di-fibonacci/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pisa.coderdojo.it/projects/le-rane-di-fibonacci/</guid><description/></item><item><title>Pong</title><link>https://pisa.coderdojo.it/projects/pong/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pisa.coderdojo.it/projects/pong/</guid><description/></item><item><title>Io resto a casa e Programmo</title><link>https://pisa.coderdojo.it/news/io-resto-a-casa-e-programmo/</link><pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate><guid>https://pisa.coderdojo.it/news/io-resto-a-casa-e-programmo/</guid><description>BlaBlaBla
+link</description></item><item><title>About</title><link>https://pisa.coderdojo.it/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pisa.coderdojo.it/about/</guid><description>Che cos'è? Un CoderDojo è un&amp;rsquo;organizzazione volontaria di persone che costituisce, attiva e mantiene un club basandosi sul regolamento etico di CoderDojo al fine di facilitare l&amp;rsquo;apprendimento gratuito della programmazione informatica per i giovani fra i 7 e i 17 anni.
+Coder significa Programmatore e Dojo significa Tempio dell&amp;rsquo;Apprendimento.
+Se vuoi imparare il Karate vai in un KarateDojo,
+se vuoi imparare il Kendo vai in un KendoDojo,
+se vuoi imparare a programmare vai in un CoderDojo e porta i tuoi genitori.</description></item><item><title>Mentori</title><link>https://pisa.coderdojo.it/mentors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pisa.coderdojo.it/mentors/</guid><description>Stiamo cercando nuovi mentori che ci aiutino a portare avanti le nostre iniziative. Non vi preoccupate: non cerchiamo solo programmatori, ma anche persone che abbiano voglia di fare, inventare e divertirsi.
+Mandaci la tua canditatura a uno dei nostri social.</description></item></channel></rss>

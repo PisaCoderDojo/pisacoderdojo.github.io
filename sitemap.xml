@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://pisacoderdojo.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://pisacoderdojo.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://pisacoderdojo.github.io/tags/</loc>
-  </url>
-  
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://pisa.coderdojo.it/projects/il-pianoforte/</loc></url><url><loc>https://pisa.coderdojo.it/projects/le-rane-di-fibonacci/</loc></url><url><loc>https://pisa.coderdojo.it/projects/pong/</loc></url><url><loc>https://pisa.coderdojo.it/tags/iniziativa/</loc><lastmod>2020-03-30T00:00:00+00:00</lastmod></url><url><loc>https://pisa.coderdojo.it/news/io-resto-a-casa-e-programmo/</loc><lastmod>2020-03-30T00:00:00+00:00</lastmod></url><url><loc>https://pisa.coderdojo.it/news/</loc><lastmod>2020-03-30T00:00:00+00:00</lastmod></url><url><loc>https://pisa.coderdojo.it/</loc><lastmod>2020-03-30T00:00:00+00:00</lastmod></url><url><loc>https://pisa.coderdojo.it/tags/</loc><lastmod>2020-03-30T00:00:00+00:00</lastmod></url><url><loc>https://pisa.coderdojo.it/about/</loc></url><url><loc>https://pisa.coderdojo.it/categories/</loc></url><url><loc>https://pisa.coderdojo.it/mentors/</loc></url><url><loc>https://pisa.coderdojo.it/tags/microbit/</loc></url><url><loc>https://pisa.coderdojo.it/tags/musica/</loc></url><url><loc>https://pisa.coderdojo.it/projects/</loc></url><url><loc>https://pisa.coderdojo.it/tags/scratch/</loc></url><url><loc>https://pisa.coderdojo.it/tags/videogioco/</loc></url></urlset>
