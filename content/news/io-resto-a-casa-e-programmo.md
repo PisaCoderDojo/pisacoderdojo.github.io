@@ -2,7 +2,7 @@
 title: "Io resto a casa e Programmo"
 date: 2020-03-30
 tags: ["iniziativa"]
-draft: false
+draft: true
 ---
 
 BlaBlaBla
