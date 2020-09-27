@@ -43,5 +43,10 @@
     "text": "Studentessa di AIDE all’Università di Pisa. È appassionata di scrittura e informatica e è sempre alla ricerca di nuovi modi per mettere insieme le due cose!",
     "img": "daria_maggi.jpg",
     "link": "https://github.com/dariamaggi"
+  },
+  {
+    "name": "Lucio Messina",
+    "text": "Toscano di nascita, è iscritto alla Laurea Magistrale in Informatica. Suona la chitarra e il clarinetto, ama i giochi da tavolo e l'associazionismo. Nel tempo libero, studia anche un pochino. Dopo soli cinque minuti di conversazione ti farà un indovinello oppure cercherà di convincerti che l'informatica è una scienza. Ha una treccina ma non sogna di diventare Jedi.",
+    "img": "lucio_messina.jpg"
   }
 ]
