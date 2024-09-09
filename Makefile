@@ -11,7 +11,7 @@ grayscale:
 	for img in $$IMAGES; do \
 		filename=$$(basename "$$img"); \
 		echo "Processing image: $$img with name $$filename"; \
-		magick "$$img" -colorspace Gray "./static/mentors/$$filename"; \
+		magick "$$img" -resize 200x200^ -gravity center -extent 200x200 -colorspace Gray "./static/mentors/$$filename"; \
 	done
 
 
