@@ -32,6 +32,12 @@
        "link":"https://github.com/GBisi"
     },
     {
+        "name":"Josef Neri",
+        "text":"Studente triennale di Informatica all'Università di Pisa e appassionato di motori ambisce a lavorare nel settore informatico dei grandi brand automobilistici. Se non è occupato a guardare la Formula 1 lo potete trovare a suonare la sua chitarra elettrica.",
+        "img":"josef_neri.jpg",
+        "link":""
+     },
+    {
        "name":"Laura Bussi",
        "text":"Ricercatrice in Informatica e guida al Museo degli Strumenti per il Calcolo, con una passione per la didattica che l'ha portata a Pisa CoderDojo.",
        "img":"laura_bussi.jpeg"
